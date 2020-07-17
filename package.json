@@ -1,0 +1,23 @@
+{
+  "name": "es6-spring",
+  "version": "1.0.0",
+  "description": "- Java Version 11\r - SDK Version 13\r - Spring Boot Version 2.3.1\r - npm Version 6.12.0",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel src/main/resources/static/es6 -d src/main/resources/static -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "2.0.5"
+  }
+}
