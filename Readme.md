@@ -1,4 +1,4 @@
-velog 👉 https://velog.io/@hellohyeon/Spring-BootBabel-Prettier-ESLintAirbnb-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0
+velog 👉 [Spring Boot+Babel, Prettier, ESLint(Airbnb) 세팅하기](https://velog.io/@hellohyeon/Spring-BootBabel-Prettier-ESLintAirbnb-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
 
 # Spring Boot 프로젝트에 Babel, ESLint + Prettier 사용하기
 
